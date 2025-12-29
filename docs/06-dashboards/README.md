@@ -27,6 +27,39 @@ for decision makers.
 ### Executive Overview — Screenshot
 ![Executive Overview](../../assets/screenshots/powerbi/dashboard_executive_overview.png)
 
+
+
+---
+
+## Load & Operations
+
+### Business question
+“When does energy demand peak and how consistent is the load profile?”
+
+### What this page shows
+- Hourly load profile (kW)
+- Daily and weekly patterns
+- Peak demand identification
+- Base load behavior
+
+This page helps identify:
+- Operational inefficiencies
+- Unexpected peaks
+- Off-hours energy waste
+
+---
+
+### Load & Operations — Screenshot
+![Load & Operations](../../assets/screenshots/powerbi/dashboard_load_operations.png)
+
+---
+
+### Key insights enabled
+- Peak-hour risk detection
+- Load smoothing opportunities
+- Demand-side optimization potential
+
+
 ---
 
 ### Key design principles
