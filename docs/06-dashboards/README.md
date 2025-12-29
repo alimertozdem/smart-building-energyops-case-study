@@ -32,6 +32,41 @@ for decision makers.
 
 ---
 
+## Cost & Carbon
+
+### Business question
+“What is the financial and environmental impact
+of the building’s energy consumption?”
+
+### What this page shows
+- Total energy cost (€)
+- Cost trends over time
+- CO₂ emissions linked to energy usage
+- Cost and carbon drivers
+
+This page supports:
+- Cost optimization decisions
+- Carbon reduction strategies
+- Sustainability reporting
+
+---
+
+### Cost & Carbon — Screenshot
+![Cost & Carbon](../../assets/screenshots/powerbi/dashboard_cost_carbon.png)
+
+---
+
+### Key insights enabled
+- High-cost periods identification
+- Carbon-intensive consumption patterns
+- Trade-offs between cost and emissions
+
+
+
+
+
+---
+
 ## PV & Grid Interaction
 
 ### Business question
