@@ -171,3 +171,41 @@ This page helps identify:
 - KPI-first layout
 - Trends before breakdowns
 - Business language, not technical metrics
+- 
+
+
+---
+
+## Actions & Opportunities
+
+### Business question
+“What concrete actions can be taken
+to reduce energy cost and emissions?”
+
+### What this page shows
+- Identified inefficiencies and anomalies
+- Estimated energy, cost, and carbon savings
+- Prioritized action list
+- Quick wins vs long-term improvements
+
+This page turns analytics into **actionable insights**.
+
+---
+
+### Actions & Opportunities — Screenshot
+![Actions & Opportunities](../../assets/screenshots/powerbi/dashboard_actions_opportunities.png)
+
+---
+
+### Example actions
+- Reduce off-hours HVAC operation
+- Shift flexible loads to PV production hours
+- Optimize HVAC schedules based on occupancy
+- Review peak demand drivers
+
+---
+
+### Why this matters
+This page closes the loop between:
+**data → insight → decision → action**
+
