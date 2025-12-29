@@ -22,6 +22,40 @@ Each dashboard page answers a **specific business question**.
 The goal is to provide **one-glance visibility**
 for decision makers.
 
+
+
+---
+
+## HVAC & Operations
+
+### Business question
+“How efficiently is the HVAC system operating,
+and does its behavior align with occupancy and schedules?”
+
+### What this page shows
+- HVAC energy consumption patterns
+- Operating hours vs energy use
+- Temperature-driven demand behavior
+- Off-hours or abnormal operation
+
+This page helps identify:
+- Inefficient HVAC scheduling
+- Excessive night or weekend operation
+- Optimization and maintenance opportunities
+
+---
+
+### HVAC & Operations — Screenshot
+![HVAC & Operations](../../assets/screenshots/powerbi/dashboard_hvac_operations.png)
+
+---
+
+### Key insights enabled
+- Schedule alignment issues
+- Potential energy savings
+- Operational optimization actions
+
+
 ---
 
 ### Executive Overview — Screenshot
