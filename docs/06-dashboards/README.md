@@ -29,6 +29,41 @@ for decision makers.
 
 
 
+
+---
+
+## PV & Grid Interaction
+
+### Business question
+“How effectively is on-site PV generation utilized,
+and when does the building rely on the grid?”
+
+### What this page shows
+- PV generation over time
+- Grid import vs export
+- Interaction between load and on-site generation
+- Daytime vs nighttime behavior
+
+This page helps identify:
+- PV self-consumption opportunities
+- Grid dependency periods
+- Potential storage or load-shifting use cases
+
+---
+
+### PV & Grid Interaction — Screenshot
+![PV & Grid Interaction](../../assets/screenshots/powerbi/dashboard_pv_grid_interaction.png)
+
+---
+
+### Key insights enabled
+- Alignment (or misalignment) between PV production and demand
+- Periods of excess generation
+- Opportunities to increase on-site utilization
+
+
+
+
 ---
 
 ## Load & Operations
