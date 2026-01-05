@@ -1,3 +1,57 @@
+
+This repository documents the evolution of the Smart Building EnergyOps project,
+with a primary focus on the v2 Fabric-first architecture.
+
+## Project Evolution: v1 → v2
+
+| Area | v1 | v2 |
+|-----|----|----|
+| Platform | n8n + Azure | **Microsoft Fabric (end-to-end)** |
+| Ingestion | n8n workflows | **Fabric Notebooks (Python)** |
+| Modeling | Multiple fact tables | **Single canonical fact table** |
+| Scope | Single building | **Multi-building** |
+| Focus | Reporting | **Energy optimization & operations** |
+
+In v2, n8n is intentionally limited to operational alerting only.
+All core data engineering and transformations are handled natively in Microsoft Fabric.
+## High-Level Architecture
+
+APIs (Weather, Market Prices)
+        ↓
+Microsoft Fabric Notebooks
+        ↓
+Lakehouse (Bronze → Silver → Gold)
+        ↓
+Power BI Semantic Model
+        ↓
+Dashboards & Operational Insights
+
+
+## What This Repository Includes
+
+- Fabric notebooks for API ingestion and energy modeling
+- Bronze / Silver / Gold lakehouse tables
+- Canonical hourly energy fact table
+- Power BI semantic model and dashboards
+- Operational KPIs for energy, cost, and comfort
+
+## What This Repository Is Not
+
+- A real-time Energy Management System (EMS)
+- A production controller for batteries or HVAC
+- A generic Power BI demo dashboard
+
+This project is a **decision-support simulation** designed to demonstrate
+energy analytics and optimization logic.
+
+## Why This Project Matters
+
+This project demonstrates how modern data platforms like Microsoft Fabric
+can be used not only to report energy data, but to **operate and optimize
+energy systems** using market signals and operational constraints.
+
+
+
 # Smart Building EnergyOps — End-to-End Case Study
 
 End-to-end smart campus energy analytics platform:
